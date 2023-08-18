@@ -1,4 +1,6 @@
-# Description
+# Open with Rhino and Grasshopper
+
+![](screenshot.png)
 
 This project provides a custom context menu option for .3dm and .gh files. With a single right-click, users can open both Rhino and associated Grasshopper files simultaneously, streamlining the workflow for designers and architects.
 
